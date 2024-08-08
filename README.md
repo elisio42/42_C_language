@@ -1,2 +1,2 @@
-# 42_C_language
-42 Luanda C exercices
+#42 Luanda inprove
+This repository contains all the exercises I managed to do and my experience solving school 42 exercises in c
