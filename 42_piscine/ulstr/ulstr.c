@@ -1,6 +1,6 @@
 #include <unistd.h>
 
-void	converte_alpha(char *str)
+void	inverter_alpha(char *str)
 {
 	int	i;
 
@@ -23,7 +23,7 @@ int	main(int argc, char *argv[])
 	i = 0;
 	if (argc == 2)
 	{
-		converte_alpha(argv[1]);
+		inverter_alpha(argv[1]);
 		write(1, "\n", 1);
 	}
 	else
